@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vishnu-K-Menon
+- 👋 Hi, I’m Vishnu-K-Menon
 - I'm a post graduate in Electronics and Communication from SCMS School of Engineering and Technology.  
 - I’m currently preparing fro my master in Electronics and Computerscience 
 - I’m intersted in Artificial Intelligence , Machine Learning , Deep Larning and are intested in collborating with similar projects 
