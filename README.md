@@ -33,7 +33,6 @@ I’m an **AI/ML Engineer and Researcher** with a strong foundation in:
 - **Data-Intensive Computing & ML Pipelines**  
 
 I’ve worked as a **Research Associate at IIT Mandi**, contributing to multiple **IEEE/ACM/Springer publications**, focusing on cognitive modeling, performance forecasting, and functional connectivity analysis.  
-:contentReference[oaicite:1]{index=1}
 
 I'm currently completing my M.S. at **University at Buffalo**, specializing in Applied ML, CVIP, Pattern Recognition, and Data Engineering.
 
