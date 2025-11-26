@@ -76,42 +76,6 @@ I'm currently completing my M.S. at **University at Buffalo**, specializing in A
 
 ---
 
-## 🔬 Featured Research Projects
-
-### **🧠 Human Performance Enhancement via tDCS + EEG + Machine Learning**
-**IIT Mandi, LSRB Project**  
-- Achieved **95.4% accuracy** in cognitive performance forecasting using EEG features  
-- Built ML pipelines: RFE, MLP, AdaBoost, ensemble models  
-- Improved artifact detection → **30% cleaner EEG signals**  
-- Contributed to **6+ peer-reviewed research papers**  
-:contentReference[oaicite:2]{index=2}
-
----
-
-## 🎶 MusicFlow – AI-Enabled End-to-End Music Generation
-- Built a full-stack AI music therapy platform (React + Spring Boot + FastAPI + microservices)  
-- Generated multi-genre music using **LLM-based SymphonyNet** (Transformers + LSTM)  
-- Mood-aware embeddings for ADHD, PTSD, insomnia  
-:contentReference[oaicite:3]{index=3}
-
----
-
-## 💹 Arbitrage Trading in Cryptocurrency Markets
-- Cointegration-based arbitrage using Johansen + Engle-Granger  
-- Kalman filter hedge ratios, Z-score thresholds  
-- 5+ years of Binance/Yahoo Finance data  
-:contentReference[oaicite:4]{index=4}
-
----
-
-## 📌 Featured GitHub Projects
-
-### 🔥 **Meteorite Landings Classification**
-End-to-end ML pipeline (preprocessing → feature engineering → RF/GB/SVM/NN models)  
-📁 Repo: https://github.com/Vishnu-K-Menon/Meteorite-Landings-Classification
-
----
-
 ## 📚 Select Publications
 
 - **EEG-based decision-making performance prediction post tDCS**, PETRA 2023 — ACM  
