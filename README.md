@@ -50,7 +50,6 @@ Improved ROUGE-L from **0.40** to **0.78** with a **19.5-minute** training runti
 - **B.Tech. Electronics and Communication**, SCMS School of Engineering and Technology, Kerala (*Sep 2017 – Jun 2021*)
 
 ### Certifications
-- **AWS Certified Machine Learning Engineer Associate (MLA-C01)** – AWS
 - **AWS Certified AI Practitioner (AIF-C01)** – AWS
 - **Generative AI with LLMs, RAG** – DeepLearning.AI
 - **Claude Code 101, Introduction to MCP** – Anthropic
